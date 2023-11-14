@@ -1,0 +1,9 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.gallary{
+    background-image: url("https://images4.alphacoders.com/132/1326368.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
